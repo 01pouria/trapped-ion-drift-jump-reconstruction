@@ -1,0 +1,4 @@
+Relation,Estimated_slope,Theoretical_slope,Relative_error,R2
+g vs eta,0.353485,0.353553,0.000193,1.0
+g vs Omega,0.053021,0.053033,0.000219,0.999999
+gamma vs 1/T1,1.095008,1.0,0.095,0.967142

@@ -1,0 +1,3 @@
+Parameter,Theory,Estimate,Relative_error,Bootstrap_CI95_low,Bootstrap_CI95_high,Theory_in_CI
+g,0.053033,0.053021,0.000217,0.053017,0.053044,True
+gamma,0.0125,0.014098,0.1278,0.010753,0.017317,True

@@ -1,0 +1,7 @@
+test,metric,value
+Independent seeds — g,coefficient of variation,0.00019
+Independent seeds — gamma,coefficient of variation,0.152854
+Time-step convergence — g,maximum relative error,0.000276
+Time-step robustness — gamma,maximum relative error,0.004559
+Kernel-neighbor sensitivity,maximum relative drift change,0.013484
+PSD-safe diffusion estimator,PSD violation fraction,0.0

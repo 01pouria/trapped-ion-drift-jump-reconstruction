@@ -1,0 +1,2 @@
+mean_variable_NRMSE,worst_variable_NRMSE,median_standardized_state_error,q95_standardized_state_error,max_standardized_state_error,median_quantum_support_radius,median_PDMP_support_radius,median_separation_to_support,q95_separation_to_support
+0.021723,0.031099,0.040366,0.145663,0.149155,0.036488,0.052526,1.109866,2.389744

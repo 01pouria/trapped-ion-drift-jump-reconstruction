@@ -1,0 +1,17 @@
+Parameter,Symbol,Value
+Number of ions,N,2
+Phonon cutoff,N_m,4
+Lamb-Dicke parameter,eta,0.15
+Rabi frequency,Omega,1.0
+COM weight,u_i,1/sqrt(2)
+Spin-phonon coupling,g,0.053033
+Relaxation time,T_1,80.0
+Pure dephasing,T_phi,infinity
+Phonon damping,kappa,0.0
+Initial state,,"|10,0_ph>"
+Interaction,,Red sideband
+Quantum trajectories,R,200
+Time samples,,1001
+Time step,Delta t,0.092153
+Reduced-state dimension,d,4
+Kernel neighbors,K,400

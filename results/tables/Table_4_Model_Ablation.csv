@@ -1,0 +1,4 @@
+model,mean_NRMSE,variance_NRMSE,wasserstein,survival_RMSE,covariance_error,physical_violation_fraction
+Drift-only,0.183742,0.405829,0.126699,0.369912,1.0,0.0
+Gaussian diffusion,0.196909,0.652859,0.228445,0.369912,1.714459,0.400067
+PDMP,0.055093,0.053569,0.038281,0.096942,0.124873,0.0

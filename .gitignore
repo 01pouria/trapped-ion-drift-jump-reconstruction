@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+dist/
+build/
+*.egg-info/
+results/generated/
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp

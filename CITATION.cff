@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript."
+title: "Data-driven drift--jump reconstruction in an open trapped-ion system"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Khalilian
+    given-names: Pouriya
+  - family-names: Taghizadeh Firouzjaee
+    given-names: Javad
+repository-code: "REPLACE_WITH_GITHUB_REPOSITORY_URL"
+license: MIT

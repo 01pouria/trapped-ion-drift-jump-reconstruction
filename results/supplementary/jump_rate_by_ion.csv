@@ -1,0 +1,3 @@
+ion,true_gamma,train_jumps,train_exposure,gamma_hat,relative_gamma_error,validation_jumps,predicted_validation_jumps
+0,0.0125,52,3314.497718,0.015689,0.255092,24,22.973633
+1,0.0125,36,2927.687941,0.012296,0.016289,13,15.226578

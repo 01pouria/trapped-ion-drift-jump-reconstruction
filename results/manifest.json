@@ -1,0 +1,12 @@
+{
+  "source_notebook": "many-body-trapped-ions-analysis.ipynb",
+  "source_sha256": "30dcdf032a644859f5cac380ff790498441a50449d1a78f89de86eb7f1c08132",
+  "state_columns": [
+    "Pexc0",
+    "Pexc1",
+    "Csm0",
+    "Csm1"
+  ],
+  "baseline_seed": 12345,
+  "frozen_results_policy": "Files under results/tables, results/figures, and results/supplementary are preserved manuscript outputs. Full reruns write to results/generated."
+}

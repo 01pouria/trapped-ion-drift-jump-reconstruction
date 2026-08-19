@@ -1,0 +1,35 @@
+{
+  "manuscript_baseline": {
+    "g_theory": 0.053033,
+    "g_estimate": 0.053021,
+    "gamma_theory": 0.0125,
+    "gamma_estimate": 0.014098
+  },
+  "final_pdmp_300": {
+    "mean_NRMSE": 0.047447,
+    "variance_NRMSE": 0.054333,
+    "wasserstein": 0.034444,
+    "survival_RMSE": 0.080019,
+    "jump_fraction_error": 0.073333,
+    "mean_covariance_error": 0.128736,
+    "physical_violation_fraction": 0.0,
+    "max_population_violation": 0.0
+  },
+  "ablation_pdmp_matched_sample": {
+    "mean_NRMSE": 0.055093,
+    "variance_NRMSE": 0.053569,
+    "wasserstein": 0.038281,
+    "survival_RMSE": 0.096942,
+    "mean_covariance_error": 0.124873,
+    "physical_violation_fraction": 0.0
+  },
+  "nojump": {
+    "mean_path_NRMSE": 0.021723,
+    "worst_path_NRMSE": 0.031099
+  },
+  "notes": {
+    "g_point_estimate": "The manuscript baseline point estimate is 0.053021. The trajectory-bootstrap distribution has mean 0.053031; these are intentionally not treated as the same quantity.",
+    "jump_provenance": "Recorded quantum-jump event times are used to separate no-jump increments from jump-containing increments.",
+    "hazard_model": "The relaxation hazard uses the physics-informed form lambda_i(X)=gamma*P_ei; gamma is estimated from event exposure."
+  }
+}

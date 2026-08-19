@@ -1,0 +1,9 @@
+Validation,Absolute_error
+Carrier dynamics,5.856664e-08
+Red-sideband dynamics,1.390274e-08
+Blue-sideband dynamics,1.390274e-08
+Two-ion excitation conservation,4.440892e-16
+T1 relaxation,1.459577e-08
+Pure dephasing,2.601783e-08
+Dephasing population conservation,0.0
+Phonon damping,1.914074e-08

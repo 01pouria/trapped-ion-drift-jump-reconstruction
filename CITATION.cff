@@ -8,5 +8,5 @@ authors:
     given-names: Pouriya
   - family-names: Taghizadeh Firouzjaee
     given-names: Javad
-repository-code: "REPLACE_WITH_GITHUB_REPOSITORY_URL"
+repository-code: "https://github.com/01pouria/trapped-ion-drift-jump-reconstruction"
 license: MIT
